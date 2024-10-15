@@ -35,7 +35,7 @@ body {
 }
 
 .us{
-    position: fixed;
+    position: absolute;
     height: auto;
     max-width: 30vw;
     left: 0;
