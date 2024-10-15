@@ -40,7 +40,7 @@ body {
     height: auto;
     max-width: 30vw;
     left: 0px;
-    bottom: 0px;
+    bottom: -50px;
 }
 
 /* Heading Styling */
