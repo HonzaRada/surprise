@@ -29,17 +29,17 @@ body {
 .roxy{
     position: absolute;
     height: auto;
-    max-width: 100px;
-    top: 20px;
-    right: 10px;
+    max-width: 18vw;
+    top: 3vh;
+    right: 5vw;
 }
 
 .us{
     position: absolute;
     height: auto;
-    width: 200px;
-    left: 0px;
-    bottom: 0px;
+    max-width: 30vw;
+    left: 0vw;
+    bottom: 0vh;
 }
 
 /* Heading Styling */
