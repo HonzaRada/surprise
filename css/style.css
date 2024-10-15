@@ -27,19 +27,19 @@ body {
 }
 
 .roxy{
-    position: absolute;
+    position: fixed;
     height: auto;
     max-width: 18vw;
-    top: 3vh;
-    right: 5vw;
+    top: 5px;
+    right: 5px;
 }
 
 .us{
-    position: absolute;
+    position: fixed;
     height: auto;
     max-width: 30vw;
-    left: 0vw;
-    bottom: 0vh;
+    left: 0;
+    bottom: 0;
 }
 
 /* Heading Styling */
