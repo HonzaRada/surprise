@@ -109,3 +109,9 @@ h1 {
         transform: scale(1.2) rotate(-45deg);
     }
 }
+
+@media (max-width: 375px) {
+    .image {
+        width: 80px; /* Adjust size for common phone screen width */
+    }
+}
