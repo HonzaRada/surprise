@@ -27,7 +27,7 @@ body {
 }
 
 .roxy{
-    position: fixed;
+    position: absolute;
     height: auto;
     max-width: 18vw;
     top: 5px;
@@ -35,7 +35,7 @@ body {
 }
 
 .us{
-    position: fixed;
+    position: absolute;
     height: auto;
     max-width: 30vw;
     left: 0;
